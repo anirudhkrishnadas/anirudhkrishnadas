@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/anirudhkdas" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhkdas?logo=twitter&style=for-the-badge" alt="anirudhkdas" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Neural Network Models**
+- 🔭 I’m currently working on **Graph Neural Networking and Potential energy surface Modelling**
 
-- 🌱 I’m currently learning **Julia, Fortran , Rust**
+- 🌱 I’m currently learning **Julia, Fortran, Rust, Flask**
 
 - 👯 I’m looking to collaborate on **High Performance Computing Projects**
 
